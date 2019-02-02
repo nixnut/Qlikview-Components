@@ -10,7 +10,6 @@ UNQUALIFY "_qvctemp.*";	// UNQUALIFY all qvctemp fields
 // Remove variables
 // Global
 SET Qvc.Global.Extension.Directory=;
-SET Qvc.Global.v.QlikProduct =;
 SET Qvc.Global.v.QlikBuild =;
 
 // Calendar
@@ -22,6 +21,7 @@ SET Qvc.Calendar.v.Field.Year=;
 SET Qvc.Calendar.v.Field.Month=;
 SET Qvc.Calendar.v.Field.YearMonth=;
 SET Qvc.Calendar.v.Field.Quarter=;
+SET Qvc.Calendar.v.Field.YearQuarter=;
 SET Qvc.Calendar.v.ExtFields=;
 SET Qvc.Calendar.v.ExtSetVariables=;
 

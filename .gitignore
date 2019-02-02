@@ -9,7 +9,9 @@ Tests/temp/*
 Tests/*_log.txt
 
 # Runtime directory
-Qvc_Runtime
+#Qvc_Runtime
 
 # Office temp files
 ~$*
+build/QvcValidate.qvw
+build/ScriptRepository_V1.8.qvw
